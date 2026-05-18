@@ -1,21 +1,21 @@
-## Bangladesh-2.0
+## Bangladesh 2.0
 
 ## 🌐 Live Site
-[Visit : Bangladesh-2.0](https://bayjid-alom.github.io/Bangladesh-2.0/)
+[Visit : Bangladesh 2.0](https://bayjid-alom.github.io/Bangladesh-2.0/)
 
 ---
 
 
 ## 🏢 Project Overview
 
-Bangladesh-2.0 is a modern and responsive landing page project focused on the vision of a smarter and more developed Bangladesh.  
+Bangladesh 2.0 is a modern and responsive landing page project focused on the vision of a smarter and more developed Bangladesh.  
 The website features clean layouts, modern UI sections, and a professional design built entirely with HTML and CSS.
 
 This project highlights responsive web design principles and structured frontend development.
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
 - Fully Responsive Design
 - Modern UI & Clean Layout
@@ -27,10 +27,12 @@ This project highlights responsive web design principles and structured frontend
 
 ---
 
-## 🛠 Technologies Used
+## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
+| Technology | Usage |
+|------------|-------|
+| HTML5 | Structure |
+| CSS3 | Styling & Responsive Design |
 
 ---
 
