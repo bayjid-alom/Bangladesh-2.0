@@ -113,5 +113,32 @@
         border-radius: 18px;
     }
 
+    /* Donate Section */
+
+    .donate-section {
+        max-width: 94%;
+        margin-top: 70px;
+
+    }
+
+    .donate-card-container {
+        max-width: 100%;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+
+    .input {
+        width: 100%;
+
+        border-radius: 6px;
+        margin-bottom: 16px;
+    }
+
+    .donate-card h2 {
+        font-size: 30px;
+        color: #0E0E0E;
+    }
+
 
 }
