@@ -12,6 +12,17 @@
     cursor: pointer;
 }
 
+.hamburger{
+    display: none;
+    border: 1px solid rgba(128, 128, 128, 0.712);
+    padding: 5px;
+    border-radius: 6px;
+}
+
+.hide{
+    display:none ;
+}
+
 .primary-btn {
     padding: 13px 26px;
     border: none;
@@ -560,3 +571,6 @@ footer .footer-icons {
     justify-content: center;
     gap: 23px;
 }
+
+
+

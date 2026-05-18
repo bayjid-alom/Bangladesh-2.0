@@ -1,0 +1,30 @@
+@media screen and (max-width:576px) {
+    header .navbar {
+        max-width: 94%;
+    }
+
+    .navbar button {
+        display: none;
+    }
+
+    .hamburger {
+        display: block;
+    }
+
+
+    header .banner-container {
+        max-width: 94%;
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .banner-content h1 {
+        font-size: 40px;
+    }
+
+    .banner-container .banner-content {
+        max-width: 100%;
+    }
+
+    
+}
