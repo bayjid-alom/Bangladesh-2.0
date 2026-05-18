@@ -197,6 +197,12 @@ main {
 
 /* Vision Future section related */
 
+.vision-section{
+
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
 .vision-div {
     max-width: 1280px;
     margin: 0 auto;
