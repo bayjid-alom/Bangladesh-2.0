@@ -26,5 +26,36 @@
         max-width: 100%;
     }
 
-    
+    .banner-container .banner-image img {
+        max-width: 100%;
+    }
+
+    /* Piller Section */
+
+    .piller-section {
+        max-width: 94%;
+    }
+
+    .piller-card-container {
+        flex-direction: column;
+        margin: 0 auto;
+    }
+
+    .piller-card {
+        margin: 0 auto;
+    }
+
+    .piller-section .piller-heading {
+        font-size: 37px;
+        text-align: center;
+    }
+
+
+    .piller-card-container .piller-card {
+        max-width: 95%;
+        border-radius: 16px;
+        border: 1px solid rgba(14, 14, 14, 0.15);
+        background-color: #fff;
+        padding: 24px;
+    }
 }
