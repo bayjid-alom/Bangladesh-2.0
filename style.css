@@ -60,6 +60,12 @@ header .navbar {
     color: #0E0E0E;
 }
 
+.navbar h2:hover {
+    background: linear-gradient(to right, #006A50 , red);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
 .navbar .nav-btn {
     padding: 15px 30px;
     border: 1px solid #006A50;

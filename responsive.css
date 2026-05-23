@@ -16,7 +16,9 @@
         max-width: 94%;
         flex-direction: column-reverse;
         gap: 50px;
+        padding: 20px 14px;
     }
+
 
     .banner-content h1 {
         font-size: 40px;
@@ -28,6 +30,11 @@
 
     .banner-container .banner-image img {
         max-width: 100%;
+    }
+
+    .banner-content .banner-btn {
+        padding: 16px 15px;
+        font-size: 16px;
     }
 
     /* Piller Section */
