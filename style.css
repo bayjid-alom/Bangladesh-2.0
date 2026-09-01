@@ -31,14 +31,17 @@
     font-size: 18px;
     font-weight: 600;
     background-color: #006A50;
+    transition: 0.3s;
+}
 
+.primary-btn:hover {
+    transform: scale(1.03);
 }
 
 
 /* Navbar Related styles */
 header {
     background-color: #F1F1F3;
-
     padding-bottom: 80px;
 }
 
@@ -81,7 +84,6 @@ header .navbar {
     box-shadow: 1px 1px 3px 1px rgba(128, 128, 128, 0.384);
     background-color: #006A50;
     color: white;
-
 }
 
 
@@ -126,6 +128,11 @@ header .banner-container {
     font-size: 18px;
     font-weight: 600;
     background-color: #006A50;
+    transition: .3s;
+}
+
+.banner-content .banner-btn:hover {
+    transform: scale(1.03);
 }
 
 .banner-container .banner-image {
@@ -166,6 +173,12 @@ main {
     border: 1px solid rgba(14, 14, 14, 0.15);
     background-color: #fff;
     padding: 24px;
+    transition: .3s;
+}
+
+.piller-card-container .piller-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
 }
 
 
@@ -232,6 +245,12 @@ main {
     max-width: 410px;
     border-radius: 12px;
     padding: 32px;
+    transition: .3s;
+}
+
+.vision-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
 }
 
 .vision-card h3 {
@@ -436,12 +455,27 @@ main {
     border-radius: 10px;
     margin-bottom: 17px;
     background-color: #fff;
+    transition: .3s;
 }
 
 .donate-card h2 {
     font-size: 40px;
     color: #0E0E0E;
+    transition: .3s;
 }
+
+.donate-card:hover h2 {
+    color: white;
+}
+
+.donate-card:hover {
+    color: white;
+    transform: translateY(-6px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
+    background-color: #006A50;
+}
+
+
 
 
 .donate-heading {
